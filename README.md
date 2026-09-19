@@ -1,4 +1,4 @@
-# Plenário Fighter — versão 18
+# Plenário Fighter — versão 19
 
 Jogo de luta satírico em C++17, usando exclusivamente SDL2. Execute `PlenarioFighter.exe`. A SDL2, os retratos, a música e os efeitos sintetizados estão incorporados ao executável; não é necessária SDL2.dll ao lado dele.
 
